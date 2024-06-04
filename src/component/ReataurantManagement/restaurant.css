@@ -1,0 +1,79 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/abstract-blur-coffee-shop-cafe-interior_74190-6342.jpg?w=996&t=st=1717519297~exp=1717519897~hmac=a0aab7fcb7d159510261b287003b9362a376bd840993abe155b812709ecb278e");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#editBtn {
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    background-color: #4DB6AC1F;
+}
+
+#editIcon {
+    color: #4DB6AC;
+}
+
+#editDelete {
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    background-color: #F656561F;
+}
+
+#DeleteIcon {
+    color: #F65656;
+}
+
+#RestaurantContainer {
+    margin-top: 2%;
+}
+
+#list {
+    opacity: 0.7;
+}
+
+#mainDiv {
+    background-color: rgba(255, 255, 255, 0.8); /* Optional: add some background color for better text readability */
+    padding: 20px; /* Optional: add some padding */
+    border-radius: 8px; /* Optional: add some border radius */
+    margin-top: 5%;
+}
+
+#addModal {
+    margin-bottom: 3%;
+}
+
+#header {
+    font-family: "Inter";
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 16.94px;
+    color: black;
+}
+
+#data {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 16.94px;
+    color: black;
+}
+
+#editRestaurantModalLabel {
+    font-family: "Inter";
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 16.94px;
+    color: black;
+}
+
+#addRestaurantModalLabel {
+    font-family: "Inter";
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 16.94px;
+    color: black;
+}
